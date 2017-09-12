@@ -5,7 +5,7 @@
 You need the AWS account alias for the credentials found by the SDK's default
 credential provider.
 
-### Our motivation
+## Our Motivation
 
 The AWS authentication backend in Hashicorp's Vault requires the roles to be uniquely
 named. If you have multiple AWS accounst you wish to authenticate against identical
