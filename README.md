@@ -3,7 +3,7 @@
 ## Motivation
 
 You need the AWS account alias for the credentials found by the SDK's default
-credential provider.
+credential provider, and you don't want to/can't install the AWS CLI.
 
 ## Our Motivation
 
