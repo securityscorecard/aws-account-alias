@@ -8,7 +8,7 @@ credential provider, and you don't want to/can't install the AWS CLI.
 ## Our Motivation
 
 The AWS authentication backend in [Hashicorp Vault](https://github.com/hashicorp/vault)
-requires the roles to be uniquely named. If you have multiple AWS accounst you wish
+requires the roles to be uniquely named. If you have multiple AWS accounts you wish
 to authenticate against identical roles, you have two options:
 
 1. Mount the AWS authentication backend multiple times, and duplicate the roles with
